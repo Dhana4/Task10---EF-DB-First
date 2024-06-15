@@ -1,0 +1,4 @@
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFDBFirst\obj\Debug\net8.0\EmployeeConsoleEFDBFirst - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFDBFirst\obj\Debug\net8.0\EmployeeConsoleEFDBFirst - Backup.AssemblyInfoInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFDBFirst\obj\Debug\net8.0\EmployeeConsoleEFDBFirst - Backup.AssemblyInfo.cs
+C:\Users\lakshmi.m\source\repos\EmployeeConsoleEFDBFirst\obj\Debug\net8.0\EmployeeConsoleEFDBFirst - Backup.csproj.CoreCompileInputs.cache
